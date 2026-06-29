@@ -1,4 +1,4 @@
-![alt text](<composed (1).jpg>) ![alt text](composed.jpg)
+![alt text](<Banner For Website.jpg>)
 
 Stewardship Performance Index (SPI)
 A framework for long-term stewardship, independent reporting, and continuous improvement.
