@@ -1,5 +1,4 @@
-![commit readding banner
-](<SPI-Assets/Banner For Website.jpg>)
+![alt text](<SPI-Assets/Banner For Website.jpg>)
 
 # Stewardship Performance Index (SPI)
 
