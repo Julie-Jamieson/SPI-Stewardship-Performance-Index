@@ -1,3 +1,5 @@
+![alt text](<SPI-Assets/SPI Logo 1.png>)
+
 # Stewardship Performance Index (SPI)
 
 *A standardized framework for measuring, reporting, and improving long-term stewardship across infrastructure and industry.*
